@@ -1,0 +1,24 @@
+{
+  "name": "resolvex-root",
+  "version": "1.0.0",
+  "description": "Smart Complaint Reporting & Resolution Management System",
+  "private": true,
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build",
+    "seed": "cd backend && npm run seed"
+  },
+  "keywords": [
+    "mern",
+    "complaint-management",
+    "grievance-redressal",
+    "react",
+    "nodejs",
+    "mongodb",
+    "socketio"
+  ],
+  "author": "ResolveX Engineering Team",
+  "license": "MIT"
+}
